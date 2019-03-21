@@ -8,7 +8,7 @@ published: true
 ### The Combined Impact of Climate Change and Adapted Land Use Management on Water Quality (PhD)
 - Development of a solute transport model in Python
 - Application of climate and agricultutural practice scenarios
-- Running a case study in Baden-Wurttemberg
+- Running a case study for an agricultural dominated catchment located in Baden-Wurttemberg
 - Providing policy-relevant recommendations
 
 ![Graphical Abstract](/img/graphical_abstract.png)
