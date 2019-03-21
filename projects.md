@@ -1,6 +1,6 @@
 ---
 layout: post
 title: ''
-published: false
+published: true
 ---
 ### PhD-Project
