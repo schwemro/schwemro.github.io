@@ -1,27 +1,58 @@
 ---
 layout: post
 title: Open Learning
-date: '2016-01-21 14:16'
+date: '2019-03-21 14:16'
 excerpt: >-
-  An overview of freely available learning content on various topics (though
-  mainly machine learning).
+  An overview of freely available learning content on programming topics (though
+  mainly related to hydrology).
 published: true
 ---
 
-### Hydrology
+## Programming
 
-
-### Programming
-
-#### Videos
-
-
-#### Blogs/Sites
+### Blogs/Sites
+#### MATLAB
 - [Undocumented Matlab](http://undocumentedmatlab.com/) - One of the best Matlab related Sites I know.
+- [SAFEToolbox](https://www.safetoolbox.info/) - MATLAB toolbox to perform Global Sensitivity Analysis
+
+
+#### Python
+- [Anaconda](https://conda.io/projects/conda/en/latest/index.html) - Python-Distribution for scientific programming
 - [CheckiO](https://www.checkio.org) - Online game-based learning of Python
+- [PEP8](https://www.python.org/dev/peps/pep-0008/) - A style-guide to develop consistent code with Python
 
 
-### General Scientific stuff
+#### R
+- [RHydrology](https://github.com/ropensci/Hydrology) - Task View of packages broadly relevant to hydrology
 
-#### Videos
--[How to write a Scientific Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Talk by Simon Peyton Jones
+
+#### LaTex
+- [Overleaf](https://www.overleaf.com/) - Online LaTex-Editor and ready-to-use templates
+- [TablesGenerator](http://www.tablesgenerator.com/) - Online-tool which facilitates generation of latex tables
+
+
+#### Others
+ - [Wolfram](https://www.wolframalpha.com/) - Computational knowledge engine
+ - [Atom](https://atom.io/) - User-friendly and powerful text editor
+ - [Markdown](https://typora.io/) - A markdown editor
+ - [Git](https://rogerdudler.github.io/git-guide/index.html) - A simple giude to getting started with git
+
+## Data
+- [eartH2Observe](https://wci.earth2observe.eu/portal/) - Globally observed and simulated hydrometeorological datasets
+- [GoogleEarthEngine](https://earthengine.google.com/) - Satelitte imagery and geospatial datasets with build-in capabilities for data analysis
+- [CEH](https://eip.ceh.ac.uk/) - Environmental Data for the UK
+
+
+## General Scientific stuff
+
+### Videos
+- [How to write a Scientific Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Talk by Simon Peyton Jones
+
+
+### Blogs/Sites
+- [Ozdic](http://ozdic.com/) - Collocation dictionary
+- [DeepL](https://www.deepl.com/home) - Forget about Google translate
+
+
+### Books
+- Booth, Wayne C.: The Craft of Research, 4th Edition, University of Chicago Press, Chicago, London, 334 pp., 2017
