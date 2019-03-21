@@ -43,7 +43,7 @@ published: true
 - [CEH](https://eip.ceh.ac.uk/) - Environmental Data for the UK
 
 
-## General Scientific stuff
+## Scientific Writing
 
 ### Videos
 - [How to write a Scientific Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - Talk by Simon Peyton Jones
