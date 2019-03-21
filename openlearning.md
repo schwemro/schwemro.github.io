@@ -15,7 +15,8 @@ published: true
 - [Anaconda](https://conda.io/projects/conda/en/latest/index.html) - Python-Distribution for scientific programming
 - [CheckiO](https://www.checkio.org) - Online game-based learning of Python
 - [PEP8](https://www.python.org/dev/peps/pep-0008/) - A style-guide to develop consistent code with Python
-- [RRMPG](https://github.com/kratzert/RRMPG) - Simple conceptual rainfall-runoff models (e.g. HBV educational) 
+- [RRMPG](https://github.com/kratzert/RRMPG) - Simple conceptual rainfall-runoff models (e.g. HBV educational)
+- [rSAS](https://github.com/charman2/rsas) - A lumped model for solute transport based time-variable transit time distributions
 
 
 #### R
