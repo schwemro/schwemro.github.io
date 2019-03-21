@@ -11,6 +11,7 @@ published: true
 - Running a case study in Baden-Wurttemberg
 - Providing policy-relevant recommendations
 
+![Graphical Abstract](/img/graphical_abstract.png)
 
 ### Climatic and Physiographic Controls on Errors of Large-scale Hydrological Models (MSc)
 - Global benchmarking of large-scale models
