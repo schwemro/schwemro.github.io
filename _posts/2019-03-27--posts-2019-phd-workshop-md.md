@@ -1,9 +1,10 @@
 ---
 layout: post
 published: true
-title: _posts/2019/phd_workshop.md
+title: PhD Workshop on Hydrological Modeling
 date: '2019-03-27'
 image: img/flyer_1.png
+comments: true
 ---
 ## PhD Workshop on Hydrological Modeling
 
