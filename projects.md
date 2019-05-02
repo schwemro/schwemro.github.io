@@ -6,7 +6,7 @@ excerpt: "An overview of current projects"
 published: true
 ---
 ### The Combined Impact of Climate Change and Adapted Land Use Management on Water Quality (PhD)
-- Development of a solute transport model in Python
+- Development of a solute transport model (RoGeR) in Python based on StorAge Selection functions
 - Application of climate and agricultutural practice scenarios
 - Running a case study for an agricultural dominated catchment located in Baden-Wurttemberg
 - Providing policy-relevant recommendations
