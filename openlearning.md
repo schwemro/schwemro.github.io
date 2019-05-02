@@ -40,7 +40,7 @@ published: true
  - [Markdown](https://typora.io/) - A markdown editor
  - [Git](https://rogerdudler.github.io/git-guide/index.html) - A simple giude to getting started with git
  
- ### Books
+### Books
  - James, G., Witten, D., Hastie, T., and Tibshirani, R.: An Introduction to Statistical Learning: with Applications in R, Corrected at 8th printing ed., Springer Texts in Statistics, Springer, 426 pp., 2017
 
 ## Data
