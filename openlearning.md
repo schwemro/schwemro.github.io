@@ -16,7 +16,7 @@ published: true
 - [CheckiO](https://www.checkio.org) - Online game-based learning of Python
 - [PEP8](https://www.python.org/dev/peps/pep-0008/) - A style-guide to develop consistent code with Python
 - [RRMPG](https://github.com/kratzert/RRMPG) - Simple conceptual rainfall-runoff models (e.g. HBV educational)
-- [rSAS](https://github.com/charman2/rsas) - A lumped model for solute transport based time-variable transit time distributions
+- [rSAS](https://github.com/charman2/rsas) - A lumped model for solute transport based on time-variable transit time distributions
 
 
 #### R
@@ -24,8 +24,9 @@ published: true
 
 
 #### MATLAB
-- [Undocumented Matlab](http://undocumentedmatlab.com/) - One of the best Matlab related Sites I know.
+- [Undocumented Matlab](http://undocumentedmatlab.com/) - MATLAB's stack overflow
 - [SAFEToolbox](https://www.safetoolbox.info/) - MATLAB toolbox to perform Global Sensitivity Analysis
+- [tran-SAS](https://github.com/pbenettin/tran-SAS) - Modeling catchment-scale hydrologic transport using StorAge Selection (SAS) functions
 
 
 #### LaTex
@@ -38,11 +39,15 @@ published: true
  - [Atom](https://atom.io/) - User-friendly and powerful text editor
  - [Markdown](https://typora.io/) - A markdown editor
  - [Git](https://rogerdudler.github.io/git-guide/index.html) - A simple giude to getting started with git
+ 
+### Books
+ - James, G., Witten, D., Hastie, T., and Tibshirani, R.: An Introduction to Statistical Learning: with Applications in R, Corrected at 8th printing ed., Springer Texts in Statistics, Springer, 426 pp., 2017
 
 ## Data
 - [eartH2Observe](https://wci.earth2observe.eu/portal/) - Globally observed and simulated hydrometeorological datasets
 - [GoogleEarthEngine](https://earthengine.google.com/) - Satelitte imagery and geospatial datasets with build-in capabilities for data analysis
 - [CEH](https://eip.ceh.ac.uk/) - Environmental Data for the UK
+- [GRDC](https://www.bafg.de/GRDC/EN/Home/homepage_node.html) - Global runoff data centre
 
 
 ## Scientific Writing
