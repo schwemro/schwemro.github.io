@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: PhD Workshop on Hydrological Modeling
-date: '2019-03-27'
+date: '2019-06-17'
 image: img/flyer_1.png
 comments: true
 ---
