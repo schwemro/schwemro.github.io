@@ -6,10 +6,10 @@ excerpt: "An overview of current projects"
 published: true
 ---
 ### The Combined Impact of Climate Change and Adapted Land Use Management on Water Quality (PhD)
-- Development of a solute transport model ([RoGeR](http://www.hydrology.uni-freiburg.de/roger/)) in Python based on StorAge Selection functions
-- Application of climate and agricultutural practice scenarios
-- Running a case study for an agricultural dominated catchment located in Baden-Wurttemberg
-- Providing policy-relevant recommendations
+- Development of a fully-distributed solute transport model ([RoGeR](http://www.hydrology.uni-freiburg.de/roger/)) in Python based on StorAge Selection functions
+- Application of climate and agricultutural management scenarios
+- Running a case study for an agricultural dominated Moehlin catchment located in southwest Baden-Wurttemberg
+- Providing policy-relevant recommendations on mitigation measures
 
 ![Graphical Abstract](/img/graphical_abstract.png)
 
