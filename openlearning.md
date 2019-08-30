@@ -17,10 +17,12 @@ published: true
 - [PEP8](https://www.python.org/dev/peps/pep-0008/) - A style-guide to develop consistent code with Python
 - [RRMPG](https://github.com/kratzert/RRMPG) - Simple conceptual rainfall-runoff models (e.g. HBV educational)
 - [rSAS](https://github.com/charman2/rsas) - A lumped model for solute transport based on time-variable transit time distributions
+- [DASK](https://dask.org) - Package to scale computations
+- [xarray](http://xarray.pydata.org/en/stable/) - Package to work with multi-dimensional arrays
 
 
 #### R
-- [RHydrology](https://github.com/ropensci/Hydrology) - Task View of packages broadly relevant to hydrology
+- [RHydrology](https://github.com/ropensci/Hydrology) - Task view of packages broadly relevant to hydrology
 
 
 #### MATLAB
@@ -39,7 +41,9 @@ published: true
  - [Atom](https://atom.io/) - User-friendly and powerful text editor
  - [Markdown](https://typora.io/) - A markdown editor
  - [Git](https://rogerdudler.github.io/git-guide/index.html) - A simple giude to getting started with git
- 
+ - [Australian Water School](https://www.icewarm.com.au/australian-water-school/webinars/) - Free webinars delivered by highly-regarded international water professionals
+ - [DWI](http://digital-water.org) - Think tank on digitalisation in the water sector
+
 ### Books
  - James, G., Witten, D., Hastie, T., and Tibshirani, R.: An Introduction to Statistical Learning: with Applications in R, Corrected at 8th printing ed., Springer Texts in Statistics, Springer, 426 pp., 2017
 
