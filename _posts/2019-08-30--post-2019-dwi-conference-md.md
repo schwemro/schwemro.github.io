@@ -8,6 +8,6 @@ comments: true
 ---
 What is Water 4.0? Are there any smart algorithms which help to avoid drinking water losses? How may the water sector benefit from digitalisation?
 
-Have you ever wondered about this questions? Then you should join us on **October 3rd, 2019** for the 1st Digital Water Conference. The conference is organsied by the [[Digital Water Institute e.V.](http://digital-water.org)].
+Have you ever wondered about those questions? Then you should join us on **October 3rd, 2019** for the 1st Digital Water Conference. The conference is organsied by the [[Digital Water Institute e.V.](http://digital-water.org)].
 
 ![Conference_DWI.png]({{site.baseurl}}/img/Conference_DWI.png)
