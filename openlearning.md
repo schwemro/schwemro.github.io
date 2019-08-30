@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Learning
-date: '2019-03-21 14:16'
+date: '2019-08-30 14:16'
 excerpt: >-
   An overview of freely available learning content on programming topics (though
   mainly related to hydrology).
