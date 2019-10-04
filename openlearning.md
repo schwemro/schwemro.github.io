@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Learning
-date: '2019-08-30 14:16'
+date: '2019-10-03 14:16'
 excerpt: >-
   An overview of freely available learning content on programming topics (though
   mainly related to hydrology).
@@ -19,6 +19,7 @@ published: true
 - [rSAS](https://github.com/charman2/rsas) - A lumped model for solute transport based on time-variable transit time distributions
 - [DASK](https://dask.org) - Package to scale computations
 - [xarray](http://xarray.pydata.org/en/stable/) - Package to work with multi-dimensional arrays
+- [Pallets](https://palletsprojects.com/) - collection of Python web development libraries
 
 
 #### R
@@ -41,6 +42,9 @@ published: true
  - [Atom](https://atom.io/) - User-friendly and powerful text editor
  - [Markdown](https://typora.io/) - A markdown editor
  - [Git](https://rogerdudler.github.io/git-guide/index.html) - A simple giude to getting started with git
+ - [Colorbrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) - #endrainbow
+ - [Climate Lab Book](https://www.climate-lab-book.ac.uk/) - Blog on open source climate science
+ - [KDnuggets](https://www.kdnuggets.com/) - Blog, Stories and Tutorials on Machine Learning, Data Science, Data Mining, Big Data, Analytics, AI
  - [Australian Water School](https://www.icewarm.com.au/australian-water-school/webinars/) - Free webinars delivered by highly-regarded international water professionals
  - [DWI](http://digital-water.org) - Think tank on digitalisation in the water sector
 
@@ -52,6 +56,7 @@ published: true
 - [GoogleEarthEngine](https://earthengine.google.com/) - Satelitte imagery and geospatial datasets with build-in capabilities for data analysis
 - [CEH](https://eip.ceh.ac.uk/) - Environmental Data for the UK
 - [GRDC](https://www.bafg.de/GRDC/EN/Home/homepage_node.html) - Global runoff data centre
+- [CAMELS](https://ncar.github.io/hydrology/datasets/CAMELS_timeseries) - basin scale hydrometeorological data for 671 basins in the United States
 
 
 ## Scientific Writing
