@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Learning
-date: '2021-22-04 14:16'
+date: '2023-25-01 14:16'
 excerpt: >-
   An overview of freely available learning content on programming topics (though
   mainly related to hydrology).
@@ -72,4 +72,4 @@ published: true
 
 ### Books
 - Booth, Wayne C.: The Craft of Research, 4th Edition, University of Chicago Press, Chicago, London, 334 pp., 2017
-- Booth, Wayne C.: The Craft of Research, 4th Edition, University of Chicago Press, Chicago, London, 334 pp., 2017
+- Ahrens, Söhnke: Das Zettelkasten-Prinzip: Erfolgreich wissenschaftlich Schreiben und Studieren mit effektiven Notizen, 1st Edition, BoD – Books on Demand, 160 pp., 2017
