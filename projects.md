@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Projects'
-date: "2023-25-01 14:16"
+date: ""
 excerpt: "An overview of current projects"
 published: true
 ---
