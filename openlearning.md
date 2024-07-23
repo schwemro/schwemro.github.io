@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Open Learning
+title: ''
 date: ''
 excerpt: >-
   An overview of freely available learning content on programming topics (though
   mainly related to hydrology).
 published: true
 ---
+# Open Learning
 
 ## Programming
 
